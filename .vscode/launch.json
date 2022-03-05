@@ -1,0 +1,280 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Student007",
+      "request": "launch",
+      "mainClass": "Student007",
+      "projectName": "Java_d6265687"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student10",
+      "request": "launch",
+      "mainClass": "Student10",
+      "projectName": "Java_d6265687"
+    },
+    {
+      "type": "java",
+      "name": "Launch AREA1",
+      "request": "launch",
+      "mainClass": "AREA1",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student1234",
+      "request": "launch",
+      "mainClass": "Student1234",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access3",
+      "request": "launch",
+      "mainClass": "mypack3.Access3",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access2",
+      "request": "launch",
+      "mainClass": "mypack3.Access2",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access1",
+      "request": "launch",
+      "mainClass": "mypack3.Access1",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access",
+      "request": "launch",
+      "mainClass": "mypack3.Access",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access1",
+      "request": "launch",
+      "mainClass": "Access1",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access",
+      "request": "launch",
+      "mainClass": "Access",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Access",
+      "request": "launch",
+      "mainClass": "dePack.Access",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student007",
+      "request": "launch",
+      "mainClass": "Student007",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student123",
+      "request": "launch",
+      "mainClass": "Student123",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch A",
+      "request": "launch",
+      "mainClass": "A",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch test1234",
+      "request": "launch",
+      "mainClass": "test1234",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch test123",
+      "request": "launch",
+      "mainClass": "test123",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test22",
+      "request": "launch",
+      "mainClass": "Test22",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch not",
+      "request": "launch",
+      "mainClass": "not",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Splender",
+      "request": "launch",
+      "mainClass": "Splender",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bike$Splender",
+      "request": "launch",
+      "mainClass": "Bike$Splender",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Customer1",
+      "request": "launch",
+      "mainClass": "Customer1",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch temp",
+      "request": "launch",
+      "mainClass": "temp",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch bankacc",
+      "request": "launch",
+      "mainClass": "bankacc",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch honda",
+      "request": "launch",
+      "mainClass": "honda",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch inhbank",
+      "request": "launch",
+      "mainClass": "inhbank",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Supinher",
+      "request": "launch",
+      "mainClass": "Supinher",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch degreeinhert",
+      "request": "launch",
+      "mainClass": "degreeinhert",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student1",
+      "request": "launch",
+      "mainClass": "Student1",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Shape",
+      "request": "launch",
+      "mainClass": "Shape",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student10",
+      "request": "launch",
+      "mainClass": "Student10",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Employee",
+      "request": "launch",
+      "mainClass": "Employee",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Grade",
+      "request": "launch",
+      "mainClass": "Grade",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Makaut",
+      "request": "launch",
+      "mainClass": "Makaut",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch oddeven",
+      "request": "launch",
+      "mainClass": "oddeven",
+      "projectName": "Java_d4ccff49"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Saheb",
+      "request": "launch",
+      "mainClass": "Saheb",
+      "projectName": "Java_d4ccff49"
+    }
+  ]
+}
